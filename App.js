@@ -12,7 +12,7 @@ const App = () => {
     <main>
       <Container>
         
-      <h1>apples to apples</h1>
+      <h1>Fresh Market!</h1>
 
         </Container>
      </main>
